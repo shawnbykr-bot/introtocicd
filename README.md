@@ -5,6 +5,8 @@ A 90-minute, beginner-friendly workshop. You'll learn what CI/CD is and why team
 
 No previous CI/CD experience needed.
 
+MY name is sehyun
+
 ## What's here
 
 | | |
